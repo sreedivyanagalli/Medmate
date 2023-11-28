@@ -1,1 +1,1 @@
-# Medmate
+# It is a web application that revolutionizes healthcare data management by leveraging the power of blockchain technology. It securely stores and manages patient records in a decentralized manner, ensuring data integrity, privacy, and accessibility. By eliminating centralized control, Block-chain Backed E-Health Datavault empowers patients with ownership of their medical data while enabling seamless and secure access for authorized healthcare providers.
