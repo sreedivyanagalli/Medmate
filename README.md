@@ -50,3 +50,5 @@ MedMate is a web-based application designed to help users manage and track their
    ```bash
    npm start
    ```
+-Skills-
+`Node.js`, `MongoDB`, `Full Stack App`, `Medication Reminder`, `REST API`, `JWT Authentication`, `HTML`, `CSS`, `JavaScript`, `Express.js`, `HealthTech`
